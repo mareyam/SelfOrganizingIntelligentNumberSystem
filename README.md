@@ -1,0 +1,2 @@
+# SelfOrganizingIntelligentNumberSystem
+Self Organizing Intelligent Number System
